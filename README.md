@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Truong Quang Chu</h1>
 <h3 align="center">A passionate backend developer from Da Nang</h3>
 
-- 📫 How to reach me **truongquangchu.tqc@gmail.com**
+- 📫 How to reach me: **truongquangchu.tqc@gmail.com**
 
 - ⚡ Fun fact: **I think I am funny**
 
